@@ -19,6 +19,6 @@ print (f"Výsledek je: {x+y}")
 # ÚLOHA 3: Výpočet psího věku (věk * 7)
 # ==========================================
 # Sem napiš svůj kód:
-clovekVek = int(input("Zadej svůj věk: "))
-pesVek = clovekVek * 7
-print(f"Váš psí věk je: {pesVek}")
+pesVek = int(input("Zadej věk psa: "))
+clovekVek = pesVek * 7
+print(f"Věk vašeho psa je: {clovekVek}")
